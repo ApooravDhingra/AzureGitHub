@@ -1,0 +1,2 @@
+Welcome to azure github better 
+Here I will show you how the files and there changes are managed in GitHub.
